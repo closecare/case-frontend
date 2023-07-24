@@ -2,7 +2,7 @@
 
 Faça um _fork_ deste projeto e desenvolva um layout de 2 etapas sendo a primeira uma lista de items e a segunda tendo 2 estados, criação e edição de item.
 
-[Layout](https://www.figma.com/file/wnbu4SPlgE2XusIgac39U2/screens?type=design&node-id=5645-52680&mode=design&t=5clcGkMxwotWuNnh-0)
+![Layout](https://github.com/closecare/case-frontend/blob/master/layout.png?raw=true)
 
 ## Requisitos
 
