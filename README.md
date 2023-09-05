@@ -1,6 +1,8 @@
 # Closecare Case Front-end
 
-Faça um _fork_ deste projeto e desenvolva um layout de 2 etapas sendo a primeira uma lista de items e a segunda tendo 2 estados, criação e edição de item.
+> Para que seu nome não apareça nos forks our PRs públicos desse repo, você pode baixar o código e subir em um repo próprio e compartilhar conosco.
+
+Desenvolva um layout de 2 etapas sendo a primeira uma lista de items e a segunda tendo 2 estados, criação e edição de item.
 
 ![Layout](https://github.com/closecare/case-frontend/blob/master/layout.png?raw=true)
 
@@ -30,6 +32,9 @@ No formulário devem existir 3 campos:
 As diferentes ações devem:
 - Adicionar<small>(Incrementar 1 item na lista)</small>
 - Editar<small>(Atualizar o respectivo item na lista)</small>
+
+## Importante
+A API Poke não suporta POST/PUT, então pode deixar o método apenas mockado (dando print no console, adicionando itens apenas no array local ou algo do tipo
 
 ## Finalização
 
